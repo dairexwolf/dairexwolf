@@ -1,4 +1,3 @@
-- 👋 Hi, I’m dairexwolf
 - 👀 I’m interested in coding, game design. Sometimes I play dnd on weekends.
 - 🌱 I’m currently learning С#, .NET, Unity3D and WPF. Also, I write in C, JS sometimes
 - 🎲 I'm currently learning 3d-modeling using Blender.
