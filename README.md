@@ -4,3 +4,4 @@
 - 📫 You can contact me using Discord (TacWerewolf#5510) or email (dairexwolf@gmail.com)
 
 Participated in the SiberianGameJam May 2025. Project here! --> https://alexpetunin.itch.io/gwisinhuntejam
+Participated in the SiberianGameJam November 2025. Project here! --> https://dairexwolf.itch.io/liberatio
